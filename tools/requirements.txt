@@ -1,0 +1,5 @@
+# Asset builders for this README (tools/build_svgs.py, tools/build_demos.py).
+# ffmpeg with libwebp_anim must be on PATH for the demos.
+fonttools>=4.54
+uharfbuzz>=0.57
+pillow>=10.4

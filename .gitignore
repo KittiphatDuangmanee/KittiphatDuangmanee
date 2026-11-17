@@ -1,0 +1,3 @@
+# Font files for tools/build_svgs.py. Fetch them from google/fonts (see that script).
+tools/fonts/
+__pycache__/
