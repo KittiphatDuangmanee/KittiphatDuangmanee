@@ -1,6 +1,6 @@
 # Kittiphat Duangmanee (Mark)
 
-**Full-Stack Developer** · B.Eng. in Computer Engineering, Kasetsart University (2026) · Bangkok, Thailand (UTC+7)
+**Full-Stack Developer** · B.Eng. in Computer Engineering, Kasetsart University (2026) · Bangkok, Thailand
 
 I build full-stack web applications and scalable backend services. My work runs from FastAPI and Spring Boot APIs to real-time monitoring dashboards with React and TypeScript.
 
